@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Tazer-Y
-- A small C++ developer who loves crazy experiments as well as examining game engines, because that's cool.
+- A minecraft modder currently working on Team Abstract!
