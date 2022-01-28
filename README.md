@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Tazer-Y
-- A minecraft modder currently working on Team Abstract!
+- A minecraft modder!
